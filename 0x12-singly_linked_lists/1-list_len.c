@@ -3,7 +3,7 @@
 #include "lists.h"
 
 /**
- * list_len function: returns the number of elements in a linked list.
+ * list_len is a function that returns the number of elements in a linked list.
  * @h: pointer to one element on a linked list
  * Return: number of elements defined here by longueur
  * this code is made by: jihane1107.
